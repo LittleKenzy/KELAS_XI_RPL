@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RestoranLKSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="RestoranLKSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DetailOrders" EntityType="RestoranLKSModel.DetailOrder" />
+    <EntitySet Name="HeaderOrders" EntityType="RestoranLKSModel.HeaderOrder" />
+    <EntitySet Name="MsEmployees" EntityType="RestoranLKSModel.MsEmployee" />
+    <EntitySet Name="MsMembers" EntityType="RestoranLKSModel.MsMember" />
+    <EntitySet Name="MsMenus" EntityType="RestoranLKSModel.MsMenu" />
+    <AssociationSet Name="FK_DetailOrder_Header" Association="RestoranLKSModel.FK_DetailOrder_Header">
+      <End Role="HeaderOrder" EntitySet="HeaderOrders" />
+      <End Role="DetailOrder" EntitySet="DetailOrders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DetailOrder_Menu" Association="RestoranLKSModel.FK_DetailOrder_Menu">
+      <End Role="MsMenu" EntitySet="MsMenus" />
+      <End Role="DetailOrder" EntitySet="DetailOrders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HeaderOrder_Employee" Association="RestoranLKSModel.FK_HeaderOrder_Employee">
+      <End Role="MsEmployee" EntitySet="MsEmployees" />
+      <End Role="HeaderOrder" EntitySet="HeaderOrders" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HeaderOrder_Member" Association="RestoranLKSModel.FK_HeaderOrder_Member">
+      <End Role="MsMember" EntitySet="MsMembers" />
+      <End Role="HeaderOrder" EntitySet="HeaderOrders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="DetailOrder">
+    <Key>
+      <PropertyRef Name="DetailID" />
+    </Key>
+    <Property Name="DetailID" Type="Int32" Nullable="false" />
+    <Property Name="OrderID" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="MenuID" Type="Int32" />
+    <Property Name="Qty" Type="Int32" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="HeaderOrder" Relationship="RestoranLKSModel.FK_DetailOrder_Header" FromRole="DetailOrder" ToRole="HeaderOrder" />
+    <NavigationProperty Name="MsMenu" Relationship="RestoranLKSModel.FK_DetailOrder_Menu" FromRole="DetailOrder" ToRole="MsMenu" />
+  </EntityType>
+  <EntityType Name="HeaderOrder">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="EmployeeID" Type="String" Nullable="false" MaxLength="6" FixedLength="true" Unicode="true" />
+    <Property Name="MemberID" Type="String" MaxLength="8" FixedLength="true" Unicode="true" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="Payment" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Bank" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DetailOrders" Relationship="RestoranLKSModel.FK_DetailOrder_Header" FromRole="HeaderOrder" ToRole="DetailOrder" />
+    <NavigationProperty Name="MsEmployee" Relationship="RestoranLKSModel.FK_HeaderOrder_Employee" FromRole="HeaderOrder" ToRole="MsEmployee" />
+    <NavigationProperty Name="MsMember" Relationship="RestoranLKSModel.FK_HeaderOrder_Member" FromRole="HeaderOrder" ToRole="MsMember" />
+  </EntityType>
+  <EntityType Name="MsEmployee">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="String" Nullable="false" MaxLength="6" FixedLength="true" Unicode="true" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Handphone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Position" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="HeaderOrders" Relationship="RestoranLKSModel.FK_HeaderOrder_Employee" FromRole="MsEmployee" ToRole="HeaderOrder" />
+  </EntityType>
+  <EntityType Name="MsMember">
+    <Key>
+      <PropertyRef Name="MemberID" />
+    </Key>
+    <Property Name="MemberID" Type="String" Nullable="false" MaxLength="8" FixedLength="true" Unicode="true" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Handphone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="JoinDate" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="HeaderOrders" Relationship="RestoranLKSModel.FK_HeaderOrder_Member" FromRole="MsMember" ToRole="HeaderOrder" />
+  </EntityType>
+  <EntityType Name="MsMenu">
+    <Key>
+      <PropertyRef Name="MenuID" />
+    </Key>
+    <Property Name="MenuID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="Photo" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DetailOrders" Relationship="RestoranLKSModel.FK_DetailOrder_Menu" FromRole="MsMenu" ToRole="DetailOrder" />
+  </EntityType>
+  <Association Name="FK_DetailOrder_Header">
+    <End Type="RestoranLKSModel.HeaderOrder" Role="HeaderOrder" Multiplicity="0..1" />
+    <End Type="RestoranLKSModel.DetailOrder" Role="DetailOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HeaderOrder">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="DetailOrder">
+        <PropertyRef Name="OrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DetailOrder_Menu">
+    <End Type="RestoranLKSModel.MsMenu" Role="MsMenu" Multiplicity="0..1" />
+    <End Type="RestoranLKSModel.DetailOrder" Role="DetailOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MsMenu">
+        <PropertyRef Name="MenuID" />
+      </Principal>
+      <Dependent Role="DetailOrder">
+        <PropertyRef Name="MenuID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HeaderOrder_Employee">
+    <End Type="RestoranLKSModel.MsEmployee" Role="MsEmployee" Multiplicity="1" />
+    <End Type="RestoranLKSModel.HeaderOrder" Role="HeaderOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MsEmployee">
+        <PropertyRef Name="EmployeeID" />
+      </Principal>
+      <Dependent Role="HeaderOrder">
+        <PropertyRef Name="EmployeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HeaderOrder_Member">
+    <End Type="RestoranLKSModel.MsMember" Role="MsMember" Multiplicity="0..1" />
+    <End Type="RestoranLKSModel.HeaderOrder" Role="HeaderOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MsMember">
+        <PropertyRef Name="MemberID" />
+      </Principal>
+      <Dependent Role="HeaderOrder">
+        <PropertyRef Name="MemberID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

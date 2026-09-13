@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|d:\\bilal\\kelas_xi\\kelas_xi_rpl\\kelas-xi-rpl\\video\\applying_logic_windows_form\\admindesign-customerdesign\\admindesign\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form6jadwalpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AdminDesign||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form5maskapai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form4bandara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form4bandara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form4bandara.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form4bandara.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form3dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form3dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form2register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form2register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form8ubahstatuspenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form5maskapai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form5maskapai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form8ubahstatuspenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form8ubahstatuspenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form7kodepromo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form7kodepromo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form7kodepromo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\admindesign\\form6jadwalpenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|solutionrelative:admindesign\\form6jadwalpenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE740A67-F265-48AA-849B-DF7324F5140D}|AdminDesign\\AdminDesign.csproj|d:\\bilal\\kelas_xi\\kelas_xi_rpl\\kelas-xi-rpl\\video\\applying_logic_windows_form\\admindesign-customerdesign\\admindesign\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|031911c8-6148-4e25-b1b1-44bca9a0c45c"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form6JadwalPenerbangan.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form6JadwalPenerbangan.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form6JadwalPenerbangan.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form6JadwalPenerbangan.cs*",
+              "RelativeToolTip": "AdminDesign\\Form6JadwalPenerbangan.cs*",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAwwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:19:37.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Model1.edmx",
+              "RelativeDocumentMoniker": "AdminDesign\\Model1.edmx",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Model1.edmx [Diagram1]*",
+              "RelativeToolTip": "AdminDesign\\Model1.edmx [Diagram1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-08-19T09:14:44.658Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDesign",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\AdminDesign.csproj",
+              "RelativeDocumentMoniker": "AdminDesign\\AdminDesign.csproj",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\AdminDesign.csproj",
+              "RelativeToolTip": "AdminDesign\\AdminDesign.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-20T10:02:14.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6JadwalPenerbangan.cs [Design]",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form6JadwalPenerbangan.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form6JadwalPenerbangan.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form6JadwalPenerbangan.cs [Design]*",
+              "RelativeToolTip": "AdminDesign\\Form6JadwalPenerbangan.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:06:47.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5Maskapai.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form5Maskapai.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form5Maskapai.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form5Maskapai.cs",
+              "RelativeToolTip": "AdminDesign\\Form5Maskapai.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAwwLwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:03:56.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5Maskapai.cs [Design]",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form5Maskapai.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form5Maskapai.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form5Maskapai.cs [Design]",
+              "RelativeToolTip": "AdminDesign\\Form5Maskapai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T12:23:57.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4Bandara.cs [Design]",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form4Bandara.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form4Bandara.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form4Bandara.cs [Design]",
+              "RelativeToolTip": "AdminDesign\\Form4Bandara.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T13:21:07.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4Bandara.Designer.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form4Bandara.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form4Bandara.Designer.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form4Bandara.Designer.cs",
+              "RelativeToolTip": "AdminDesign\\Form4Bandara.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T05:44:46.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3Dashboard.Designer.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form3Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form3Dashboard.Designer.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form3Dashboard.Designer.cs",
+              "RelativeToolTip": "AdminDesign\\Form3Dashboard.Designer.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAIAwwBUBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T12:10:53.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2Register.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form2Register.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form2Register.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form2Register.cs",
+              "RelativeToolTip": "AdminDesign\\Form2Register.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T10:12:20.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2Register.Designer.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form2Register.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form2Register.Designer.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form2Register.Designer.cs",
+              "RelativeToolTip": "AdminDesign\\Form2Register.Designer.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAgwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T09:14:14.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form1.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form1.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form1.cs [Design]",
+              "RelativeToolTip": "AdminDesign\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T09:40:27.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2Register.cs [Design]",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form2Register.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form2Register.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form2Register.cs [Design]",
+              "RelativeToolTip": "AdminDesign\\Form2Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:02:56.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form1.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form1.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form1.cs",
+              "RelativeToolTip": "AdminDesign\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T09:47:32.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form1.Designer.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form1.Designer.cs",
+              "RelativeToolTip": "AdminDesign\\Form1.Designer.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAgwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T12:03:01.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form7KodePromo.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form7KodePromo.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form7KodePromo.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form7KodePromo.cs",
+              "RelativeToolTip": "AdminDesign\\Form7KodePromo.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T08:02:02.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form3Dashboard.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form3Dashboard.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form3Dashboard.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form3Dashboard.cs",
+              "RelativeToolTip": "AdminDesign\\Form3Dashboard.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T11:05:46.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form8UbahStatusPenerbangan.cs [Design]",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form8UbahStatusPenerbangan.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form8UbahStatusPenerbangan.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form8UbahStatusPenerbangan.cs [Design]",
+              "RelativeToolTip": "AdminDesign\\Form8UbahStatusPenerbangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T15:27:00.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form8UbahStatusPenerbangan.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form8UbahStatusPenerbangan.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form8UbahStatusPenerbangan.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form8UbahStatusPenerbangan.cs",
+              "RelativeToolTip": "AdminDesign\\Form8UbahStatusPenerbangan.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T15:48:11.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form3Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form3Dashboard.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form3Dashboard.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form3Dashboard.cs [Design]",
+              "RelativeToolTip": "AdminDesign\\Form3Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T10:21:08.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form5Maskapai.Designer.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form5Maskapai.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form5Maskapai.Designer.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form5Maskapai.Designer.cs",
+              "RelativeToolTip": "AdminDesign\\Form5Maskapai.Designer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAswN4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T13:51:20.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form8UbahStatusPenerbangan.Designer.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form8UbahStatusPenerbangan.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form8UbahStatusPenerbangan.Designer.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form8UbahStatusPenerbangan.Designer.cs",
+              "RelativeToolTip": "AdminDesign\\Form8UbahStatusPenerbangan.Designer.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAlwAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T15:27:18.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form7KodePromo.Designer.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form7KodePromo.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form7KodePromo.Designer.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form7KodePromo.Designer.cs",
+              "RelativeToolTip": "AdminDesign\\Form7KodePromo.Designer.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAlwPgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:54:56.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form7KodePromo.cs [Design]",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form7KodePromo.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form7KodePromo.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form7KodePromo.cs [Design]",
+              "RelativeToolTip": "AdminDesign\\Form7KodePromo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:54:02.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form6JadwalPenerbangan.Designer.cs",
+              "DocumentMoniker": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form6JadwalPenerbangan.Designer.cs",
+              "RelativeDocumentMoniker": "AdminDesign\\Form6JadwalPenerbangan.Designer.cs",
+              "ToolTip": "D:\\Bilal\\KELAS_XI\\KELAS_XI_RPL\\KELAS-XI-RPL\\VIDEO\\APPLYING_LOGIC_WINDOWS_FORM\\AdminDesign-CustomerDesign\\AdminDesign\\Form6JadwalPenerbangan.Designer.cs*",
+              "RelativeToolTip": "AdminDesign\\Form6JadwalPenerbangan.Designer.cs*",
+              "ViewState": "AgIAANYBAAAAAAAAAAAlwEwCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T14:10:02.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

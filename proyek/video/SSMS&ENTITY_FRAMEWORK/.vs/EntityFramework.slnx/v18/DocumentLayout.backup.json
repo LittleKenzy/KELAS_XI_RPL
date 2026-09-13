@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|c:\\users\\user\\source\\repos\\entityframework\\entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|c:\\users\\user\\source\\repos\\entityframework\\entityframework\\sekolahmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\sekolahmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|c:\\users\\user\\source\\repos\\entityframework\\entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\Form1.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\Form1.cs",
+              "RelativeToolTip": "EntityFramework\\Form1.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwIsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T05:09:01.042Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SekolahModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\SekolahModel.edmx",
+              "RelativeDocumentMoniker": "EntityFramework\\SekolahModel.edmx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\SekolahModel.edmx [Diagram1]",
+              "RelativeToolTip": "EntityFramework\\SekolahModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-08-15T04:52:58.033Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\Form1.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EntityFramework\\EntityFramework\\Form1.cs [Design]",
+              "RelativeToolTip": "EntityFramework\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T04:49:05.29Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

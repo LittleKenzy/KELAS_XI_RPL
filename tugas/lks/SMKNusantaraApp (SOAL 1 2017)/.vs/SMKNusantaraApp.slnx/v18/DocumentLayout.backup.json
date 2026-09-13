@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|c:\\users\\user\\source\\repos\\smknusantaraapp\\smknusantaraapp\\adminnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|solutionrelative:smknusantaraapp\\adminnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|c:\\users\\user\\source\\repos\\smknusantaraapp\\smknusantaraapp\\managescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|solutionrelative:smknusantaraapp\\managescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|c:\\users\\user\\source\\repos\\smknusantaraapp\\smknusantaraapp\\managescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|solutionrelative:smknusantaraapp\\managescheduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|c:\\users\\user\\source\\repos\\smknusantaraapp\\smknusantaraapp\\masterclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|solutionrelative:smknusantaraapp\\masterclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|c:\\users\\user\\source\\repos\\smknusantaraapp\\smknusantaraapp\\adminnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|solutionrelative:smknusantaraapp\\adminnavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|c:\\users\\user\\source\\repos\\smknusantaraapp\\smknusantaraapp\\masterclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7E82990-DF2E-757D-DBF5-2E1B810E2A2A}|SMKNusantaraApp\\SMKNusantaraApp.csproj|solutionrelative:smknusantaraapp\\masterclassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageScheduleForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\ManageScheduleForm.cs",
+              "RelativeDocumentMoniker": "SMKNusantaraApp\\ManageScheduleForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\ManageScheduleForm.cs",
+              "RelativeToolTip": "SMKNusantaraApp\\ManageScheduleForm.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAYwIcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:43:20.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminNavigationForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\AdminNavigationForm.cs",
+              "RelativeDocumentMoniker": "SMKNusantaraApp\\AdminNavigationForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\AdminNavigationForm.cs",
+              "RelativeToolTip": "SMKNusantaraApp\\AdminNavigationForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:32:46.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageScheduleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\ManageScheduleForm.cs",
+              "RelativeDocumentMoniker": "SMKNusantaraApp\\ManageScheduleForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\ManageScheduleForm.cs [Design]",
+              "RelativeToolTip": "SMKNusantaraApp\\ManageScheduleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T10:34:58.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminNavigationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\AdminNavigationForm.cs",
+              "RelativeDocumentMoniker": "SMKNusantaraApp\\AdminNavigationForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\AdminNavigationForm.cs [Design]",
+              "RelativeToolTip": "SMKNusantaraApp\\AdminNavigationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:37:57.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterClassForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\MasterClassForm.cs",
+              "RelativeDocumentMoniker": "SMKNusantaraApp\\MasterClassForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\MasterClassForm.cs",
+              "RelativeToolTip": "SMKNusantaraApp\\MasterClassForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:19:20.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MasterClassForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\MasterClassForm.cs",
+              "RelativeDocumentMoniker": "SMKNusantaraApp\\MasterClassForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SMKNusantaraApp\\SMKNusantaraApp\\MasterClassForm.cs [Design]",
+              "RelativeToolTip": "SMKNusantaraApp\\MasterClassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:15:07.162Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\bin\Debug\net10.0\22-JULY-2026.exe
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\bin\Debug\net10.0\22-JULY-2026.deps.json
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\bin\Debug\net10.0\22-JULY-2026.runtimeconfig.json
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\bin\Debug\net10.0\22-JULY-2026.dll
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\bin\Debug\net10.0\22-JULY-2026.pdb
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\obj\Debug\net10.0\22-JULY-2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\obj\Debug\net10.0\22-JULY-2026.AssemblyInfoInputs.cache
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\obj\Debug\net10.0\22-JULY-2026.AssemblyInfo.cs
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\obj\Debug\net10.0\22-JULY-2026.csproj.CoreCompileInputs.cache
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\obj\Debug\net10.0\22-JULY-2026.dll
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\obj\Debug\net10.0\refint\22-JULY-2026.dll
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\obj\Debug\net10.0\22-JULY-2026.pdb
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\obj\Debug\net10.0\22-JULY-2026.genruntimeconfig.cache
+C:\Users\lKomputer\Documents\BILAL\XI_RPL\VIDEO\22-JULY-2026\22-JULY-2026\obj\Debug\net10.0\ref\22-JULY-2026.dll

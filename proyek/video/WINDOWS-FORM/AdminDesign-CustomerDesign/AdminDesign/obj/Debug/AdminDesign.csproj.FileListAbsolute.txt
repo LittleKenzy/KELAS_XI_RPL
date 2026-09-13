@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\AdminDesign\AdminDesign\bin\Debug\AdminDesign.exe.config
+C:\Users\user\source\repos\AdminDesign\AdminDesign\bin\Debug\AdminDesign.exe
+C:\Users\user\source\repos\AdminDesign\AdminDesign\bin\Debug\AdminDesign.pdb
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form1.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form2Register.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form3Dashboard.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Properties.Resources.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.exe
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.pdb
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form4Bandara.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form5Maskapai.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form6JadwalPenerbangan.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form7KodePromo.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form8UbahStatusPenerbangan.resources

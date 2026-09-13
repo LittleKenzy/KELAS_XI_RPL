@@ -1,0 +1,694 @@
+﻿namespace AdminDesign
+{
+    partial class Form6JadwalPenerbangan
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.PanelBiru = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.PanelHitam = new System.Windows.Forms.Panel();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.dataGridJadwal = new System.Windows.Forms.DataGridView();
+            this.label10 = new System.Windows.Forms.Label();
+            this.codeText = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.saveBtn = new System.Windows.Forms.Button();
+            this.clearBtn = new System.Windows.Forms.Button();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.departureBox = new System.Windows.Forms.ComboBox();
+            this.destinationBox = new System.Windows.Forms.ComboBox();
+            this.maskapaiBox = new System.Windows.Forms.ComboBox();
+            this.departureText = new System.Windows.Forms.TextBox();
+            this.durationText = new System.Windows.Forms.TextBox();
+            this.departureDate = new System.Windows.Forms.DateTimePicker();
+            this.priceCount = new System.Windows.Forms.NumericUpDown();
+            this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.KodePenerbangan = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Keberangkatan = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.BandaraTujuan = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MaskapaiID = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TanggalKeberangkatan = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.WaktuKeberangkatan = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DurasiPenerbangan = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.HargaPerTiket = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.edit = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.hapus = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.PanelBiru.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.PanelHitam.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridJadwal)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.priceCount)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // PanelBiru
+            // 
+            this.PanelBiru.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.PanelBiru.Controls.Add(this.pictureBox1);
+            this.PanelBiru.Controls.Add(this.label1);
+            this.PanelBiru.Dock = System.Windows.Forms.DockStyle.Top;
+            this.PanelBiru.Location = new System.Drawing.Point(0, 0);
+            this.PanelBiru.Name = "PanelBiru";
+            this.PanelBiru.Size = new System.Drawing.Size(900, 60);
+            this.PanelBiru.TabIndex = 0;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox1.Location = new System.Drawing.Point(20, 10);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(40, 40);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 2;
+            this.pictureBox1.TabStop = false;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.label1.Location = new System.Drawing.Point(70, 16);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(126, 25);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Dashboard";
+            // 
+            // PanelHitam
+            // 
+            this.PanelHitam.BackColor = System.Drawing.SystemColors.Window;
+            this.PanelHitam.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.PanelHitam.Controls.Add(this.pictureBox7);
+            this.PanelHitam.Controls.Add(this.pictureBox6);
+            this.PanelHitam.Controls.Add(this.pictureBox5);
+            this.PanelHitam.Controls.Add(this.label7);
+            this.PanelHitam.Controls.Add(this.pictureBox4);
+            this.PanelHitam.Controls.Add(this.label6);
+            this.PanelHitam.Controls.Add(this.pictureBox3);
+            this.PanelHitam.Controls.Add(this.label5);
+            this.PanelHitam.Controls.Add(this.pictureBox2);
+            this.PanelHitam.Controls.Add(this.label4);
+            this.PanelHitam.Controls.Add(this.label3);
+            this.PanelHitam.Controls.Add(this.label2);
+            this.PanelHitam.Dock = System.Windows.Forms.DockStyle.Left;
+            this.PanelHitam.Location = new System.Drawing.Point(0, 60);
+            this.PanelHitam.Name = "PanelHitam";
+            this.PanelHitam.Size = new System.Drawing.Size(230, 540);
+            this.PanelHitam.TabIndex = 1;
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.pictureBox7.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox7.Image = global::AdminDesign.Properties.Resources.logout;
+            this.pictureBox7.Location = new System.Drawing.Point(15, 490);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(32, 32);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox7.TabIndex = 2;
+            this.pictureBox7.TabStop = false;
+            this.pictureBox7.Click += new System.EventHandler(this.pictureBox7_Click);
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox6.Image = global::AdminDesign.Properties.Resources.status;
+            this.pictureBox6.Location = new System.Drawing.Point(15, 195);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(32, 32);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox6.TabIndex = 2;
+            this.pictureBox6.TabStop = false;
+            this.pictureBox6.Click += new System.EventHandler(this.pictureBox6_Click);
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox5.Image = global::AdminDesign.Properties.Resources.discount;
+            this.pictureBox5.Location = new System.Drawing.Point(15, 150);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(32, 32);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 2;
+            this.pictureBox5.TabStop = false;
+            this.pictureBox5.Click += new System.EventHandler(this.pictureBox5_Click);
+            // 
+            // label7
+            // 
+            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
+            this.label7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label7.Location = new System.Drawing.Point(55, 497);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(58, 17);
+            this.label7.TabIndex = 0;
+            this.label7.Text = "Logout";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox4.Image = global::AdminDesign.Properties.Resources.calendar;
+            this.pictureBox4.Location = new System.Drawing.Point(15, 105);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(32, 32);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 2;
+            this.pictureBox4.TabStop = false;
+            this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
+            this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label6.Location = new System.Drawing.Point(55, 204);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(156, 13);
+            this.label6.TabIndex = 0;
+            this.label6.Text = "Ubah Status Penerbangan";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox3.Image = global::AdminDesign.Properties.Resources.airplane;
+            this.pictureBox3.Location = new System.Drawing.Point(15, 60);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(32, 32);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 2;
+            this.pictureBox3.TabStop = false;
+            this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
+            this.label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label5.Location = new System.Drawing.Point(55, 157);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(150, 17);
+            this.label5.TabIndex = 0;
+            this.label5.Text = "Master Kode Promo";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox2.Image = global::AdminDesign.Properties.Resources.location;
+            this.pictureBox2.Location = new System.Drawing.Point(15, 15);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(32, 32);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 2;
+            this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold);
+            this.label4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label4.Location = new System.Drawing.Point(55, 114);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(167, 13);
+            this.label4.TabIndex = 0;
+            this.label4.Text = "Master Jadwal Penerbangan";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
+            this.label3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label3.Location = new System.Drawing.Point(55, 67);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(130, 17);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Master Maskapai";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
+            this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label2.Location = new System.Drawing.Point(55, 22);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(123, 17);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Master Bandara";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label8.Location = new System.Drawing.Point(250, 75);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(236, 20);
+            this.label8.TabIndex = 0;
+            this.label8.Tag = "k";
+            this.label8.Text = "Master Jadwal Penerbangan";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(251, 100);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(237, 13);
+            this.label9.TabIndex = 2;
+            this.label9.Text = "Semua Jadwal Penerbangan Akan Muncul Disini";
+            // 
+            // dataGridJadwal
+            // 
+            this.dataGridJadwal.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.dataGridJadwal.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridJadwal.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.ID,
+            this.KodePenerbangan,
+            this.Keberangkatan,
+            this.BandaraTujuan,
+            this.MaskapaiID,
+            this.TanggalKeberangkatan,
+            this.WaktuKeberangkatan,
+            this.DurasiPenerbangan,
+            this.HargaPerTiket,
+            this.edit,
+            this.hapus});
+            this.dataGridJadwal.Location = new System.Drawing.Point(254, 125);
+            this.dataGridJadwal.Name = "dataGridJadwal";
+            this.dataGridJadwal.Size = new System.Drawing.Size(620, 200);
+            this.dataGridJadwal.TabIndex = 3;
+            // 
+            // label10
+            // 
+            this.label10.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.label10.Location = new System.Drawing.Point(251, 350);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(131, 17);
+            this.label10.TabIndex = 0;
+            this.label10.Text = "Kode Penerbangan";
+            // 
+            // codeText
+            // 
+            this.codeText.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.codeText.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.codeText.Location = new System.Drawing.Point(388, 347);
+            this.codeText.Name = "codeText";
+            this.codeText.Size = new System.Drawing.Size(160, 23);
+            this.codeText.TabIndex = 3;
+            // 
+            // label11
+            // 
+            this.label11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.label11.Location = new System.Drawing.Point(251, 382);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(34, 17);
+            this.label11.TabIndex = 0;
+            this.label11.Text = "Dari";
+            // 
+            // label15
+            // 
+            this.label15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.label15.Location = new System.Drawing.Point(554, 353);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(60, 17);
+            this.label15.TabIndex = 0;
+            this.label15.Text = "Tanggal";
+            // 
+            // saveBtn
+            // 
+            this.saveBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.saveBtn.Location = new System.Drawing.Point(774, 537);
+            this.saveBtn.Name = "saveBtn";
+            this.saveBtn.Size = new System.Drawing.Size(98, 29);
+            this.saveBtn.TabIndex = 5;
+            this.saveBtn.Text = "Simpan";
+            this.saveBtn.UseVisualStyleBackColor = true;
+            this.saveBtn.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // clearBtn
+            // 
+            this.clearBtn.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.clearBtn.Location = new System.Drawing.Point(670, 537);
+            this.clearBtn.Name = "clearBtn";
+            this.clearBtn.Size = new System.Drawing.Size(98, 29);
+            this.clearBtn.TabIndex = 5;
+            this.clearBtn.Text = "Batal";
+            this.clearBtn.UseVisualStyleBackColor = true;
+            this.clearBtn.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // label12
+            // 
+            this.label12.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.label12.Location = new System.Drawing.Point(251, 413);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(25, 17);
+            this.label12.TabIndex = 0;
+            this.label12.Text = "Ke";
+            // 
+            // label13
+            // 
+            this.label13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.label13.Location = new System.Drawing.Point(251, 447);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(68, 17);
+            this.label13.TabIndex = 0;
+            this.label13.Text = "Maskapai";
+            // 
+            // label14
+            // 
+            this.label14.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.5F);
+            this.label14.Location = new System.Drawing.Point(561, 385);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(88, 12);
+            this.label14.TabIndex = 0;
+            this.label14.Text = "Waktu Penerbangan";
+            // 
+            // label16
+            // 
+            this.label16.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label16.AutoSize = true;
+            this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.5F);
+            this.label16.Location = new System.Drawing.Point(561, 415);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(88, 12);
+            this.label16.TabIndex = 0;
+            this.label16.Text = "Durasi Penerbangan";
+            // 
+            // label17
+            // 
+            this.label17.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.5F);
+            this.label17.Location = new System.Drawing.Point(561, 444);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(68, 12);
+            this.label17.TabIndex = 0;
+            this.label17.Text = "Harga Per Tiket";
+            // 
+            // departureBox
+            // 
+            this.departureBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.departureBox.FormattingEnabled = true;
+            this.departureBox.Location = new System.Drawing.Point(388, 379);
+            this.departureBox.Name = "departureBox";
+            this.departureBox.Size = new System.Drawing.Size(160, 28);
+            this.departureBox.TabIndex = 6;
+            // 
+            // destinationBox
+            // 
+            this.destinationBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.destinationBox.FormattingEnabled = true;
+            this.destinationBox.Location = new System.Drawing.Point(388, 413);
+            this.destinationBox.Name = "destinationBox";
+            this.destinationBox.Size = new System.Drawing.Size(160, 28);
+            this.destinationBox.TabIndex = 6;
+            this.destinationBox.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
+            // 
+            // maskapaiBox
+            // 
+            this.maskapaiBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.maskapaiBox.FormattingEnabled = true;
+            this.maskapaiBox.Location = new System.Drawing.Point(388, 447);
+            this.maskapaiBox.Name = "maskapaiBox";
+            this.maskapaiBox.Size = new System.Drawing.Size(160, 28);
+            this.maskapaiBox.TabIndex = 6;
+            this.maskapaiBox.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
+            // 
+            // departureText
+            // 
+            this.departureText.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.departureText.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.departureText.Location = new System.Drawing.Point(650, 377);
+            this.departureText.Multiline = true;
+            this.departureText.Name = "departureText";
+            this.departureText.Size = new System.Drawing.Size(224, 23);
+            this.departureText.TabIndex = 3;
+            // 
+            // durationText
+            // 
+            this.durationText.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.durationText.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.durationText.Location = new System.Drawing.Point(652, 406);
+            this.durationText.Multiline = true;
+            this.durationText.Name = "durationText";
+            this.durationText.Size = new System.Drawing.Size(224, 23);
+            this.durationText.TabIndex = 3;
+            // 
+            // departureDate
+            // 
+            this.departureDate.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.departureDate.Location = new System.Drawing.Point(650, 345);
+            this.departureDate.Name = "departureDate";
+            this.departureDate.Size = new System.Drawing.Size(224, 26);
+            this.departureDate.TabIndex = 7;
+            // 
+            // priceCount
+            // 
+            this.priceCount.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.priceCount.Location = new System.Drawing.Point(650, 438);
+            this.priceCount.Name = "priceCount";
+            this.priceCount.Size = new System.Drawing.Size(238, 26);
+            this.priceCount.TabIndex = 8;
+            // 
+            // ID
+            // 
+            this.ID.DataPropertyName = "ID";
+            this.ID.HeaderText = "ID";
+            this.ID.Name = "ID";
+            // 
+            // KodePenerbangan
+            // 
+            this.KodePenerbangan.DataPropertyName = "KodePenerbangan";
+            this.KodePenerbangan.HeaderText = "KodePenerbangan";
+            this.KodePenerbangan.Name = "KodePenerbangan";
+            // 
+            // Keberangkatan
+            // 
+            this.Keberangkatan.DataPropertyName = "BandaraAsal";
+            this.Keberangkatan.HeaderText = "Keberangkatan";
+            this.Keberangkatan.Name = "Keberangkatan";
+            // 
+            // BandaraTujuan
+            // 
+            this.BandaraTujuan.DataPropertyName = "BandaraTujuan";
+            this.BandaraTujuan.HeaderText = "Tujuan";
+            this.BandaraTujuan.Name = "BandaraTujuan";
+            // 
+            // MaskapaiID
+            // 
+            this.MaskapaiID.DataPropertyName = "MaskapaiID";
+            this.MaskapaiID.HeaderText = "Maskapai";
+            this.MaskapaiID.Name = "MaskapaiID";
+            // 
+            // TanggalKeberangkatan
+            // 
+            this.TanggalKeberangkatan.DataPropertyName = "TanggalKeberangkatan";
+            this.TanggalKeberangkatan.HeaderText = "TanggalKeberangkatan";
+            this.TanggalKeberangkatan.Name = "TanggalKeberangkatan";
+            // 
+            // WaktuKeberangkatan
+            // 
+            this.WaktuKeberangkatan.DataPropertyName = "WaktuKeberangkatan";
+            this.WaktuKeberangkatan.HeaderText = "WaktuKeberangkatan";
+            this.WaktuKeberangkatan.Name = "WaktuKeberangkatan";
+            // 
+            // DurasiPenerbangan
+            // 
+            this.DurasiPenerbangan.DataPropertyName = "DurasiPenerbangan";
+            this.DurasiPenerbangan.HeaderText = "DurasiPenerbangan";
+            this.DurasiPenerbangan.Name = "DurasiPenerbangan";
+            // 
+            // HargaPerTiket
+            // 
+            this.HargaPerTiket.DataPropertyName = "HargaPerTiket";
+            this.HargaPerTiket.HeaderText = "HargaPerTiket";
+            this.HargaPerTiket.Name = "HargaPerTiket";
+            // 
+            // edit
+            // 
+            this.edit.HeaderText = "";
+            this.edit.Name = "edit";
+            this.edit.Text = "Edit";
+            this.edit.UseColumnTextForButtonValue = true;
+            // 
+            // hapus
+            // 
+            this.hapus.HeaderText = "";
+            this.hapus.Name = "hapus";
+            this.hapus.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.hapus.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.hapus.Text = "Hapus";
+            this.hapus.UseColumnTextForButtonValue = true;
+            // 
+            // Form6JadwalPenerbangan
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(900, 600);
+            this.Controls.Add(this.priceCount);
+            this.Controls.Add(this.departureDate);
+            this.Controls.Add(this.maskapaiBox);
+            this.Controls.Add(this.destinationBox);
+            this.Controls.Add(this.departureBox);
+            this.Controls.Add(this.clearBtn);
+            this.Controls.Add(this.saveBtn);
+            this.Controls.Add(this.durationText);
+            this.Controls.Add(this.departureText);
+            this.Controls.Add(this.codeText);
+            this.Controls.Add(this.dataGridJadwal);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.label17);
+            this.Controls.Add(this.PanelHitam);
+            this.Controls.Add(this.label14);
+            this.Controls.Add(this.label16);
+            this.Controls.Add(this.PanelBiru);
+            this.Controls.Add(this.label15);
+            this.Controls.Add(this.label13);
+            this.Controls.Add(this.label12);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.label8);
+            this.MinimumSize = new System.Drawing.Size(850, 550);
+            this.Name = "Form6JadwalPenerbangan";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Master Maskapai";
+            this.Load += new System.EventHandler(this.Form6JadwalPenerbangan_Load);
+            this.PanelBiru.ResumeLayout(false);
+            this.PanelBiru.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.PanelHitam.ResumeLayout(false);
+            this.PanelHitam.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridJadwal)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.priceCount)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel PanelBiru;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.PictureBox pictureBox5;
+        private System.Windows.Forms.PictureBox pictureBox6;
+        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.Panel PanelHitam;
+        private System.Windows.Forms.DataGridView dataGridJadwal;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TextBox codeText;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Button saveBtn;
+        private System.Windows.Forms.Button clearBtn;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.ComboBox departureBox;
+        private System.Windows.Forms.ComboBox destinationBox;
+        private System.Windows.Forms.ComboBox maskapaiBox;
+        private System.Windows.Forms.TextBox departureText;
+        private System.Windows.Forms.TextBox durationText;
+        private System.Windows.Forms.DateTimePicker departureDate;
+        private System.Windows.Forms.NumericUpDown priceCount;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ID;
+        private System.Windows.Forms.DataGridViewTextBoxColumn KodePenerbangan;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Keberangkatan;
+        private System.Windows.Forms.DataGridViewTextBoxColumn BandaraTujuan;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MaskapaiID;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TanggalKeberangkatan;
+        private System.Windows.Forms.DataGridViewTextBoxColumn WaktuKeberangkatan;
+        private System.Windows.Forms.DataGridViewTextBoxColumn DurasiPenerbangan;
+        private System.Windows.Forms.DataGridViewTextBoxColumn HargaPerTiket;
+        private System.Windows.Forms.DataGridViewButtonColumn edit;
+        private System.Windows.Forms.DataGridViewButtonColumn hapus;
+    }
+}

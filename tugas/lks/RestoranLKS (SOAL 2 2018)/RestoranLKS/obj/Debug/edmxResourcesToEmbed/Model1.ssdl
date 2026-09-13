@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RestoranLKSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DetailOrder">
+    <Key>
+      <PropertyRef Name="DetailID" />
+    </Key>
+    <Property Name="DetailID" Type="int" Nullable="false" />
+    <Property Name="OrderID" Type="nchar" MaxLength="10" />
+    <Property Name="MenuID" Type="int" />
+    <Property Name="Qty" Type="int" />
+    <Property Name="Price" Type="int" />
+    <Property Name="Status" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="HeaderOrder">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="EmployeeID" Type="nchar" MaxLength="6" Nullable="false" />
+    <Property Name="MemberID" Type="nchar" MaxLength="8" />
+    <Property Name="Date" Type="date" />
+    <Property Name="Payment" Type="nvarchar" MaxLength="50" />
+    <Property Name="Bank" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="MsEmployee">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="nchar" MaxLength="6" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Handphone" Type="nvarchar" MaxLength="50" />
+    <Property Name="Position" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="MsMember">
+    <Key>
+      <PropertyRef Name="MemberID" />
+    </Key>
+    <Property Name="MemberID" Type="nchar" MaxLength="8" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Handphone" Type="nvarchar" MaxLength="50" />
+    <Property Name="JoinDate" Type="date" />
+  </EntityType>
+  <EntityType Name="MsMenu">
+    <Key>
+      <PropertyRef Name="MenuID" />
+    </Key>
+    <Property Name="MenuID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="int" />
+    <Property Name="Photo" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK_DetailOrder_Header">
+    <End Role="HeaderOrder" Type="Self.HeaderOrder" Multiplicity="0..1" />
+    <End Role="DetailOrder" Type="Self.DetailOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HeaderOrder">
+        <PropertyRef Name="OrderID" />
+      </Principal>
+      <Dependent Role="DetailOrder">
+        <PropertyRef Name="OrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DetailOrder_Menu">
+    <End Role="MsMenu" Type="Self.MsMenu" Multiplicity="0..1" />
+    <End Role="DetailOrder" Type="Self.DetailOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MsMenu">
+        <PropertyRef Name="MenuID" />
+      </Principal>
+      <Dependent Role="DetailOrder">
+        <PropertyRef Name="MenuID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HeaderOrder_Employee">
+    <End Role="MsEmployee" Type="Self.MsEmployee" Multiplicity="1" />
+    <End Role="HeaderOrder" Type="Self.HeaderOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MsEmployee">
+        <PropertyRef Name="EmployeeID" />
+      </Principal>
+      <Dependent Role="HeaderOrder">
+        <PropertyRef Name="EmployeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HeaderOrder_Member">
+    <End Role="MsMember" Type="Self.MsMember" Multiplicity="0..1" />
+    <End Role="HeaderOrder" Type="Self.HeaderOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MsMember">
+        <PropertyRef Name="MemberID" />
+      </Principal>
+      <Dependent Role="HeaderOrder">
+        <PropertyRef Name="MemberID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RestoranLKSModelStoreContainer">
+    <EntitySet Name="DetailOrder" EntityType="Self.DetailOrder" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HeaderOrder" EntityType="Self.HeaderOrder" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MsEmployee" EntityType="Self.MsEmployee" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MsMember" EntityType="Self.MsMember" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MsMenu" EntityType="Self.MsMenu" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DetailOrder_Header" Association="Self.FK_DetailOrder_Header">
+      <End Role="HeaderOrder" EntitySet="HeaderOrder" />
+      <End Role="DetailOrder" EntitySet="DetailOrder" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DetailOrder_Menu" Association="Self.FK_DetailOrder_Menu">
+      <End Role="MsMenu" EntitySet="MsMenu" />
+      <End Role="DetailOrder" EntitySet="DetailOrder" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HeaderOrder_Employee" Association="Self.FK_HeaderOrder_Employee">
+      <End Role="MsEmployee" EntitySet="MsEmployee" />
+      <End Role="HeaderOrder" EntitySet="HeaderOrder" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HeaderOrder_Member" Association="Self.FK_HeaderOrder_Member">
+      <End Role="MsMember" EntitySet="MsMember" />
+      <End Role="HeaderOrder" EntitySet="HeaderOrder" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

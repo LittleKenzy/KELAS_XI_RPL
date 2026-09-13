@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\RestoranLKS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|c:\\users\\user\\source\\repos\\restoranlks\\restoranlks\\adminnavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\adminnavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|c:\\users\\user\\source\\repos\\restoranlks\\restoranlks\\cashiernavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\cashiernavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|c:\\users\\user\\source\\repos\\restoranlks\\restoranlks\\cashiernavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\cashiernavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|C:\\Users\\user\\source\\repos\\RestoranLKS\\restoranlks\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|C:\\Users\\user\\source\\repos\\RestoranLKS\\restoranlks\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|c:\\users\\user\\source\\repos\\restoranlks\\restoranlks\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|c:\\users\\user\\source\\repos\\restoranlks\\restoranlks\\chefnavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\chefnavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|c:\\users\\user\\source\\repos\\restoranlks\\restoranlks\\chefnavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\chefnavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|c:\\users\\user\\source\\repos\\restoranlks\\restoranlks\\adminnavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\adminnavform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|c:\\users\\user\\source\\repos\\restoranlks\\restoranlks\\adminnavform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\adminnavform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|C:\\Users\\user\\source\\repos\\RestoranLKS\\restoranlks\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|C:\\Users\\user\\source\\repos\\RestoranLKS\\restoranlks\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962C0C03-85B7-4650-B262-AAF35B644508}|RestoranLKS\\RestoranLKS.csproj|solutionrelative:restoranlks\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashierNavForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\CashierNavForm.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\CashierNavForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\CashierNavForm.cs",
+              "RelativeToolTip": "RestoranLKS\\CashierNavForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:32:16.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminNavForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\AdminNavForm.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\AdminNavForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\AdminNavForm.cs",
+              "RelativeToolTip": "RestoranLKS\\AdminNavForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:07:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CashierNavForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\CashierNavForm.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\CashierNavForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\CashierNavForm.cs [Design]",
+              "RelativeToolTip": "RestoranLKS\\CashierNavForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:08:08.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\Koneksi.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\Koneksi.cs",
+              "RelativeToolTip": "RestoranLKS\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:49:01.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\Model1.edmx",
+              "RelativeDocumentMoniker": "RestoranLKS\\Model1.edmx",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "RestoranLKS\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-09-10T11:47:02.808Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\LoginForm.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\LoginForm.cs",
+              "RelativeToolTip": "RestoranLKS\\LoginForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:54:01.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChefNavForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\ChefNavForm.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\ChefNavForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\ChefNavForm.cs",
+              "RelativeToolTip": "RestoranLKS\\ChefNavForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:23:55.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChefNavForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\ChefNavForm.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\ChefNavForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\ChefNavForm.cs [Design]",
+              "RelativeToolTip": "RestoranLKS\\ChefNavForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:07:55.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminNavForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\AdminNavForm.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\AdminNavForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\AdminNavForm.cs [Design]",
+              "RelativeToolTip": "RestoranLKS\\AdminNavForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:07:16.983Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminNavForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\AdminNavForm.Designer.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\AdminNavForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\AdminNavForm.Designer.cs",
+              "RelativeToolTip": "RestoranLKS\\AdminNavForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:07:26.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\UserSession.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\UserSession.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\UserSession.cs",
+              "RelativeToolTip": "RestoranLKS\\UserSession.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:50:38.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\LoginForm.cs",
+              "RelativeDocumentMoniker": "RestoranLKS\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\RestoranLKS\\RestoranLKS\\LoginForm.cs [Design]",
+              "RelativeToolTip": "RestoranLKS\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T11:12:06.99Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
